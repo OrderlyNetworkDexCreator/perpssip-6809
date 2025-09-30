@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "1perp",
   "VITE_ORDERLY_BROKER_NAME": "1perp",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/sip_trading_",
   "VITE_SEO_SITE_NAME": "1perp",
   "VITE_SEO_SITE_DESCRIPTION": "The Aggregator for Perpetual DEXs",
-  "VITE_SEO_SITE_URL": "https://perps.sip.trading",
+  "VITE_SEO_SITE_URL": "https://orderly.1perp.ai",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@sip_trading_",
